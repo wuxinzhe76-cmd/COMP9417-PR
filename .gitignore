@@ -2,6 +2,7 @@
 /*
 
 # 2. 【白名单】：允许提交的文件和文件夹
+!notebooks/
 !src/
 !results/
 !PROJECT_PLA*
