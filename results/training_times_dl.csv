@@ -1,0 +1,11 @@
+dataset,model,task,train_time_s
+dry_bean,MLP,multiclass,0.788
+dry_bean,TabNet,multiclass,17.923
+ai4i_maintenance,MLP,binary,1.466
+ai4i_maintenance,TabNet,binary,10.4
+bank_marketing,MLP,binary,4.64
+bank_marketing,TabNet,binary,78.973
+online_news,MLP,regression,5.053
+online_news,TabNet,regression,74.694
+superconductivity,MLP,regression,12.667
+superconductivity,TabNet,regression,41.154

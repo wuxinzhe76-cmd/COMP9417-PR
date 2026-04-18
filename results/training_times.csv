@@ -1,0 +1,16 @@
+dataset,model,task,train_time_s
+dry_bean,xRFM,multiclass,4.892
+dry_bean,XGBoost,multiclass,2.008
+dry_bean,RF,multiclass,2.533
+ai4i_maintenance,xRFM,binary,2.253
+ai4i_maintenance,XGBoost,binary,0.264
+ai4i_maintenance,RF,binary,1.076
+bank_marketing,xRFM,binary,107.638
+bank_marketing,XGBoost,binary,0.883
+bank_marketing,RF,binary,2.618
+online_news,xRFM,regression,79.521
+online_news,XGBoost,regression,1.489
+online_news,RF,regression,93.551
+superconductivity,xRFM,regression,15.653
+superconductivity,XGBoost,regression,2.18
+superconductivity,RF,regression,52.639
